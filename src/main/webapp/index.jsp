@@ -9,6 +9,7 @@
 
       <!-- Bootstrap CSS -->
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+      <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 </head>
 <style>
       body{
@@ -19,7 +20,7 @@
 <body>
       <nav class="navbar navbar-expand-md navbar-dark bg-dark sticky-top">
             <div class=" container">
-            <a class="navbar-brand" href="index.jsp">Navbar</a>
+            <a class="navbar-brand" href="index.jsp">HOME</a>
             <button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse"
                   data-target="#collapsibleNavId" aria-controls="collapsibleNavId" aria-expanded="false"
                   aria-label="Toggle navigation">
@@ -92,11 +93,11 @@
             <div class="container">
                   <div class=" text-center">
                         <ul class="list-inline">
-                              <a href="#" class="list-inline-item btn btn-primary text-white">About</a>
-                              <a href="#" class="list-inline-item btn btn-primary text-white">Policy</a>
-                              <a href="#" class="list-inline-item btn btn-primary text-white">linked</a>
-                              <a href="#" class="list-inline-item btn btn-primary text-white">Github</a>
-                              <a href="#" class="list-inline-item btn btn-primary text-white">Dhub</a>
+                              <a href="about.jsp" class="list-inline-item btn-sm btn btn-primary text-white">About</a>
+                              <a href="policy.jsp" class="list-inline-item btn-sm btn btn-primary text-white">Policy</a>
+                              <a href="#" class="list-inline-item btn-sm btn btn-primary text-white">linked</a>
+                              <a href="#" class="list-inline-item btn-sm btn btn-primary text-white">Github</a>
+                              <a href="#" class="list-inline-item btn-sm btn btn-primary text-white">Dhub</a>
                         </ul>
                   </div>
                   <div class="text-center">
