@@ -100,7 +100,7 @@
                               <a href="#" class="list-inline-item btn-sm btn btn-primary text-white">Dhub</a>
                         </ul>
                   </div>
-                  <div class="text-center">
+                  <div class="text-center w3-topbar">
                         <div>&copy;2023 All Right Reserve</div>
                         <div>Powered by Jenkins/Tomcat/Docker/GitHub/ techonology</div>
                   </div>
