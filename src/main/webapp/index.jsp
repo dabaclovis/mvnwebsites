@@ -18,7 +18,7 @@
 </style>
 <body>
       <nav class="navbar navbar-expand-md navbar-dark bg-dark sticky-top">
-            <div class=" container"></div>
+            <div class=" container">
             <a class="navbar-brand" href="index.jsp">Navbar</a>
             <button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse"
                   data-target="#collapsibleNavId" aria-controls="collapsibleNavId" aria-expanded="false"
