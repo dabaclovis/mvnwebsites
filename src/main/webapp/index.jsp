@@ -88,6 +88,23 @@
             </div>
             <div></div>
       </div>
+      <div class="bg-secondary text-white py-2">
+            <div class="container">
+                  <div class=" text-center">
+                        <ul class="list-inline">
+                              <a href="#" class="list-inline-item btn btn-primary text-white">About</a>
+                              <a href="#" class="list-inline-item btn btn-primary text-white">Policy</a>
+                              <a href="#" class="list-inline-item btn btn-primary text-white">linked</a>
+                              <a href="#" class="list-inline-item btn btn-primary text-white">Github</a>
+                              <a href="#" class="list-inline-item btn btn-primary text-white">Dhub</a>
+                        </ul>
+                  </div>
+                  <div class="text-center">
+                        <div>&copy;2023 All Right Reserve</div>
+                        <div>Powered by Jenkins/Tomcat/Docker/GitHub/ techonology</div>
+                  </div>
+            </div>   
+      </div>
 
       <!-- Optional JavaScript -->
       <!-- jQuery first, then Popper.js, then Bootstrap JS -->
