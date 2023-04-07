@@ -53,7 +53,39 @@
             <div class=" text-center jumbotron">
                   <h2>Cameroon is my home country</h2>
             </div>
-            <div></div>
+            <div class="card-columns">
+                  <div class="card">
+                        <div class="card-header">
+                              <h3 class="text-center">Nigeria</h3>
+                        </div>
+                        <div class="card-body">
+                              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit hic natus maxime quod, cupiditate obcaecati.</p>
+                              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit hic natus maxime quod, cupiditate obcaecati.</p>
+                              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit hic natus maxime quod, cupiditate obcaecati.</p>
+                        </div>
+                        <div class="card-footer"></div>
+                  </div>
+                  <div class="card">
+                        <div class="card-header">
+                              <h3 class="text-center">Cameroon</h3>
+                        </div>
+                        <div class="card-body">
+                              <p>18.118.19.113</p>
+                        </div>
+                        <div class="card-footer"></div>
+                  </div>
+                  <div class="card">
+                        <div class="card-header">
+                              <h3 class="text-center">Ghana</h3>
+                        </div>
+                        <div class="card-body">
+                              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid, ipsa
+                                     tenetur nesciunt ullam quidem rerum officiis quaerat. Nostrum nam
+                                     quisquam dolorum corporis ratione autem quas facilis et sapiente, consequuntur expedita.</p>
+                        </div>
+                        <div class="card-footer"></div>
+                  </div>
+            </div>
             <div></div>
       </div>
 
